@@ -305,6 +305,10 @@ a {
 }
 
 /* Plan */
+.plan {
+  width: 50rem;
+}
+
 .plan__name {
   margin: 0;
   color: #fff;
